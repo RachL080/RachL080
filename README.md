@@ -35,3 +35,5 @@ I love building smart and efficient solutions, and I also use my background in q
 <img src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </p>
+
+## 💻 Most Used Languages <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=tokyonight&hide_border=true"/> </p>
