@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Rachel! 👋
 
 ### Full Stack Developer | QA & Automation
@@ -36,4 +35,3 @@ I love building smart and efficient solutions, and I also use my background in q
 <img src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </p>
-```
