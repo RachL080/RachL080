@@ -36,4 +36,38 @@ I love building smart and efficient solutions, and I also use my background in q
 
 </p>
 
-## 💻 Most Used Languages <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RachL080&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=RachL080&theme=tokyonight&hide_border=true"/>
+
+</p>
+💻 Most Used Languages
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachL080&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+🚀 Featured Projects
+## 🚀 Featured Projects
+
+- 🚗 Interactive Racing Game  
+- ✅ Todo List API  
+- 🧪 QA Automation Projects  
+- ⚛️ React & Angular Applications
+🌱 Currently Learning
+## 🌱 Currently Learning
+
+- Advanced React
+- Automation Testing
+- .NET Core APIs
+- Clean Architecture
+📫 Contact
+## 📫 Contact
+
+- 📧 Email: r7654080@gmail.com
