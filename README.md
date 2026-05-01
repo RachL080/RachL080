@@ -1,3 +1,39 @@
-<img width="1458" height="361" alt="image" src="https://github.com/user-attachments/assets/7dd56385-3e1f-48fb-939d-03b6413f9e27" />Hi, I'm Rachel! 👋
-A software developer with a broad technical background in a variety of fields. I love building smart and efficient solutions, and I also use my background in quality assurance and automation to ensure that each project is robust, reliable, and of high quality.
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="55"/> <img src="https://skillicons.dev/icons?i=css" height="55"/> <img src="https://skillicons.dev/icons?i=js" height="55"/> <img src="https://skillicons.dev/icons?i=ts" height="55"/> <img src="https://skillicons.dev/icons?i=react" height="55"/> <img src="https://skillicons.dev/icons?i=angular" height="55"/> <img src="https://skillicons.dev/icons?i=nodejs" height="55"/> <img src="https://skillicons.dev/icons?i=dotnet" height="55"/> <img src="https://skillicons.dev/icons?i=cs" height="55"/> <img src="https://skillicons.dev/icons?i=java" height="55"/> <img src="https://skillicons.dev/icons?i=python" height="55"/> <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> <img src="https://skillicons.dev/icons?i=mysql" height="55"/> <img src="https://skillicons.dev/icons?i=postgres" height="55"/> <img src="https://skillicons.dev/icons?i=git" height="55"/> <img src="https://skillicons.dev/icons?i=github" height="55"/> <img src="https://skillicons.dev/icons?i=vscode" height="55"/> <img src="https://skillicons.dev/icons?i=visualstudio" height="55"/> <img src="https://skillicons.dev/icons?i=aws" height="55"/> </p>
+```md
+# Hi, I'm Rachel! 👋
+
+### Full Stack Developer | QA & Automation
+
+<br>
+
+<p align="left" style="font-size:18px; line-height:1.8;">
+
+A software developer with a broad technical background in a variety of fields.  
+I love building smart and efficient solutions, and I also use my background in quality assurance and automation to ensure that each project is robust, reliable, and of high quality.
+
+</p>
+
+<br>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=ts" height="55"/>
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=angular" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
+<img src="https://skillicons.dev/icons?i=cs" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="55"/>
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+
+</p>
+```
