@@ -151,15 +151,14 @@ Automation testing project for National Insurance workflows and form validation 
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About Me
 
-<div align="center">
+Full Stack Developer passionate about building clean, scalable, and user-friendly applications.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RachL080&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RachL080&theme=tokyonight" />
-
-</div>
+- 💻 Focused on Full Stack Development
+- 🚀 Building modern web applications
+- 🌱 Constantly learning new technologies
+- ⚡ Strong problem-solving and self-learning skills
 
 ---
 
