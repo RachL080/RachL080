@@ -143,11 +143,11 @@ Linux
 ### 🔹 Ice cream shop
 Short description about the project and what technologies were used.
 
-### 🔹 Task management
-Short description about the project and what technologies were used.
+### 🔹 [React Project - Task Management](https://github.com/RachL080/React-Project)
+Task management application with task organization, status tracking, and responsive UI.
 
-### 🔹 Project Name
-Short description about the project and what technologies were used.
+### 🔹 [Automation Project - National Insurance](https://github.com/RachL080/Automation-Project)
+Automation testing project for National Insurance workflows and form validation processes.
 
 ---
 
