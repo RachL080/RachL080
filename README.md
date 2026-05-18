@@ -165,9 +165,10 @@ Automation testing project for National Insurance workflows and form validation 
 
 ## 🌱 Currently Learning
 
-- Advanced Full Stack Architecture
-- Cloud & DevOps
-- System Design
+- Full Stack Application Architecture
+- Advanced React Development
+- REST APIs & Backend Design
+- Cloud & Deployment with AWS
 
 ---
 
