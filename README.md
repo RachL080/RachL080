@@ -122,12 +122,12 @@ AWS
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=windows" width="65"/><br>
 Windows
 </td>
 
-<td align="center" width="120">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=linux" width="65"/><br>
 Linux
 </td>
