@@ -1,48 +1,79 @@
-# Hi, I'm Rachel! 👋
+# Hi there, I'm Rachel 👋
 
-### Full Stack Developer | QA & Automation
+<div align="center">
 
-<br>
+### Full Stack Developer
 
-<p align="left" style="font-size:18px; line-height:1.8;">
+Passionate about building clean, modern, and user-friendly applications 🚀
 
-A software developer with a broad technical background in a variety of fields.  
-I love building smart and efficient solutions, and I also use my background in quality assurance and automation to ensure that each project is robust, reliable, and of high quality.
+</div>
 
-</p>
+---
 
-<br>
+## 🚀 Tech Stack
 
-<p align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-<img src="https://skillicons.dev/icons?i=ts" height="55"/>
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-<img src="https://skillicons.dev/icons?i=angular" height="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-<img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
-<img src="https://skillicons.dev/icons?i=cs" height="55"/>
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" height="55"/>
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 
-</p>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project Name
+Short description about the project and what technologies were used.
+
+### 🔹 Project Name
+Short description about the project and what technologies were used.
+
+### 🔹 Project Name
+Short description about the project and what technologies were used.
+
+---
+
 ## 📊 GitHub Stats
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RachL080&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=RachL080&theme=tokyonight&hide_border=true"/>
-</p>
-💻 Most Used Languages
-## 💻 Most Used Languages
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachL080&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-- 📧 Email: r7654080@gmail.com
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RachL080&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachL080&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Full Stack Architecture
+- Cloud & DevOps
+- System Design
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+📧 Email: r7654080@gmail.com
+
+💼 GitHub: https://github.com/RachL080
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</div>
