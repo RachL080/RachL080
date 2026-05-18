@@ -144,6 +144,7 @@ Linux
 Short description about the project and what technologies were used.
 
 ### 🔹 [React Project - Task Management](https://github.com/RachL080/React-Project)
+🖥️ [Live Demo](https://d3ldm2uukrzrkg.cloudfront.net/)
 Task management application with task organization, status tracking, and responsive UI.
 
 ### 🔹 [Automation Project - National Insurance](https://github.com/RachL080/Automation-Project)
