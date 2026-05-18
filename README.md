@@ -155,9 +155,7 @@ Automation testing project for National Insurance workflows and form validation 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RachL080&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachL080&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RachL080&show_icons=true&theme=tokyonight" />
 
 </div>
 
