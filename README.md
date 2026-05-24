@@ -13,7 +13,7 @@ Building scalable and modern full-stack applications with clean architecture and
 ## 📌 Featured Projects
 
 ### 🔹 Ice cream shop
-Short description about the project and what technologies were used.
+Coming soon, there's something to look forward to!.
 
 ### 🔹 [React Project - Task Management](https://github.com/RachL080/React-Project)
 🖥️ [Live Demo](https://d3ldm2uukrzrkg.cloudfront.net/)
@@ -191,56 +191,3 @@ Linux
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Ice cream shop
-Short description about the project and what technologies were used.
-
-### 🔹 [React Project - Task Management](https://github.com/RachL080/React-Project)
-🖥️ [Live Demo](https://d3ldm2uukrzrkg.cloudfront.net/)
-Task management application with task organization, status tracking, and responsive UI.
-
-### 🔹 [Automation Project - National Insurance](https://github.com/RachL080/Automation-Project)
-Automation testing project for National Insurance workflows and form validation processes.
-
----
-
-## ✨ About Me
-
-Full Stack Developer passionate about building clean, scalable, and user-friendly applications.
-
-- 💻 Focused on Full Stack Development
-- 🚀 Building modern web applications
-- 🌱 Constantly learning new technologies
-- ⚡ Strong problem-solving and self-learning skills
-
----
-
-## 🌱 Currently Learning
-
-- Full Stack Application Architecture
-- Advanced React Development
-- REST APIs & Backend Design
-- Cloud & Deployment with AWS
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-📧 Email: r7654080@gmail.com
-
-💼 GitHub: [RachL080](https://github.com/RachL080)
-
-</div>
-
----
-
-<div align="center">
-
-✨ Thanks for visiting my profile ✨
-
-</div>
