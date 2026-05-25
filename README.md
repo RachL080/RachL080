@@ -16,7 +16,6 @@ Building scalable and modern full-stack applications with clean architecture and
 Coming soon, there's something to look forward to!.
 
 ### 🔹 [React Project - Task Management](https://github.com/RachL080/React-Project)
-🖥️ [Live Demo](https://d3ldm2uukrzrkg.cloudfront.net/)
 Task management application with task organization, status tracking, and responsive UI.
 
 ### 🔹 [Automation Project - National Insurance](https://github.com/RachL080/Automation-Project)
