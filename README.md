@@ -12,6 +12,9 @@ Building scalable and modern full-stack applications with clean architecture and
 
 ## 📌 Featured Projects
 
+### 🔹 [medical-commitment-parser](https://github.com/RachL080/medical-commitment-parser)
+An AI-powered system designed for the automated extraction of data from medical commitment forms and converting it into structured information. The project integrates multimodal AI and OCR models to process scanned documents and handwriting, leveraging Python and Pydantic for data schema definition and modeling.
+
 ### 🔹 Ice cream shop
 Coming soon, there's something to look forward to!.
 
